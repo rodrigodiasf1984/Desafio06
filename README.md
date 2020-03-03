@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 5: Listagem de issues e repositórios do github
+  Desafio 5: Listagem de repositórios favoritos de um utilizador
 </h3>
 
 ## :rocket: Sobre o desafio
