@@ -29,7 +29,7 @@ Criar uma aplicação com **Reac-Native**.
 
 ## :camera: Demonstração
 <h1 align="center">
-  <img alt="resultado" src="https://github.com/rodrigodiasf1984/Desafio06/blob/master/RPReplay-Final1583241399.gif
+  <img alt="resultado" src="https://github.com/rodrigodiasf1984/Desafio06/blob/master/RPReplay-Final1583241399.gif"
  />
 </h1>
 
