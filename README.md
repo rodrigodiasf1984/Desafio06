@@ -18,7 +18,7 @@ Criar uma aplicação com **Reac-Native**.
 3. Instale todas as dependencias com o comando `yarn`
 4. Digite `yarn start` para rodar o projeto
 5. Acesse a url `http://localhost:3000` para usar a aplicação
-6. Scanner o Qrcode com  a tela do telefone e clicar no icone para abrir com Expo
+6. Scannear o Qrcode com  a camera do telefone e clicar no icone para abrir com Expo
 
 ## :hammer: Ferramentas usadas
 
