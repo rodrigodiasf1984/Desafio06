@@ -28,6 +28,9 @@ Criar uma aplicação com **Reac-Native**.
 - 📄 **ESLint** - Biblioteca Javascript para procurar e resolver problemas no codigo
 
 ## :camera: Demonstração
-https://github.com/rodrigodiasf1984/Desafio06/blob/master/RPReplay-Final1583241399.gif
+<h1 align="center">
+  <img alt="resultado" src="https://github.com/rodrigodiasf1984/Desafio06/blob/master/RPReplay-Final1583241399.gif
+ />
+</h1>
 
 
