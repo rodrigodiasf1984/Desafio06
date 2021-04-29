@@ -1,0 +1,40 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: react-native-reanimated
+    versions:
+    - 2.1.0
+  - dependency-name: react-native-webview
+    versions:
+    - 11.2.1
+    - 11.2.2
+    - 11.2.3
+    - 11.2.4
+    - 11.3.1
+    - 11.4.0
+  - dependency-name: styled-components
+    versions:
+    - 5.2.1
+    - 5.2.2
+  - dependency-name: "@babel/runtime"
+    versions:
+    - 7.12.13
+    - 7.12.18
+    - 7.12.5
+    - 7.13.2
+    - 7.13.6
+    - 7.13.7
+    - 7.13.8
+    - 7.13.9
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: react-native-safe-area-context
+    versions:
+    - 3.1.9
