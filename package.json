@@ -16,7 +16,7 @@
     "axios": "^0.21.1",
     "eslint-import-resolver-alias": "^1.1.2",
     "expo": "~41.0.1",
-    "expo-app-auth": "~8.0.0",
+    "expo-app-auth": "~10.2.2",
     "prop-types": "^15.7.2",
     "proptypes": "^1.1.0",
     "react": "~16.9.0",
